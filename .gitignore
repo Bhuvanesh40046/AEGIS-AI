@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+aegis_env/
+
+# YOLO training runs (too large for GitHub)
+runs/
+
+# Dataset (too large for GitHub — download from Roboflow)
+datasets/
+pretrained_model/
+
+# Model weights (upload best.pt separately or use Git LFS)
+# best.pt  ← uncomment this if file is > 100MB
+yolov8n.pt
+yolov8s.pt
+
+# Screenshots and logs
+ss_*.jpg
+screenshot_*.jpg
+alert_log_*.json
+aegis_log_*.json
+zone_log_*.json
+log_*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ESP32 build files
+esp32_firmware/build/
