@@ -26,6 +26,13 @@ The system runs three autonomous AI agents coordinated by a central orchestrator
 
 ---
 
+## 🎥 Demo Video
+
+Click below to watch the project in action:
+
+👉 [AEGIS-AI Demo Video](./demo.mp4)
+
+---
 ## 🎯 Features
 
 - **Helmet Detection** — Dual YOLOv8 model approach (COCO for person detection + custom trained for helmet/head)
@@ -244,8 +251,9 @@ python train_helmet_model.py --dataset ./datasets/helmet_dataset --epochs 30 --b
 
 ## 👥 Team
 
-- **Priya** — AI/ML Development, System Integration
-- *(Add your team members here)*
+- **B.V.S. Bhuvanesh** — AI/ML Development, Core System Integration, Testing & Validation  
+- **N. Varsha** — IoT Development, Integration Support, Documentation  
+- **Venkat Prasad** — AI/ML & IoT Integration Support, Testing & Validation 
 
 ---
 
