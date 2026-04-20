@@ -263,7 +263,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) — Object detection framework
 - [Roboflow](https://roboflow.com) — Dataset hosting and annotation
