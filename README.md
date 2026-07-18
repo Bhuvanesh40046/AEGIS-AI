@@ -116,7 +116,7 @@ AEGIS-AI/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/AEGIS-AI.git
+https://github.com/Bhuvanesh40046/AEGIS-AI.git
 cd AEGIS-AI
 ```
 
